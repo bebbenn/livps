@@ -6,9 +6,9 @@ Script to turn common Linux commands into Powershell commands.
 
 
   <p align="center">
-    Hydran
+    LIvPS
     <br />
-    <a href="https://github.com/bebbenn/hydran/blob/master/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/bebbenn/livps/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
