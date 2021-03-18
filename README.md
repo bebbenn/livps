@@ -25,4 +25,4 @@ Script to turn common Linux commands into Powershell commands.
 <!-- USAGE EXAMPLES -->
 ## Usage
 <p align="center">
-A simple bash script has been written in order to help with turning Linux commands into Powershell commands.
+A simple bash script to help turning Linux commands into Powershell commands.
